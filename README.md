@@ -30,6 +30,8 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tengtianxiang&show_icons=true&theme=radical)
 
 
-## 感谢投喂!
+## 感谢投喂
 
-![微信赞赏码](my-wechat-reward.png)
+
+<img src="my-wechat-reward.png" alt="微信赞赏码" width="361" />
+
